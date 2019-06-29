@@ -26,6 +26,6 @@ For more cool and complex projects using tools such as the Microsoft Face API, K
 
 -----
 
-## Click the image to view the videos
+## Click the image to view the video
 
-[<img src="https://github.com/IJ-Apps/Vibrations/blob/master/triggeringVibration.jpg" width="70%">](https://www.youtube.com/watch?v=G6fpeCY9D_0 "Adding Images to Your App")
+[<img src="https://github.com/IJ-Apps/Vibrations/blob/master/triggeringVibration.jpg" width="90%">](https://www.youtube.com/watch?v=G6fpeCY9D_0 "Adding Images to Your App")
