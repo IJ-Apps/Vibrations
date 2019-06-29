@@ -1,5 +1,5 @@
 # Triggering Vibrations
-This is the code that I covered in my YouTube video, [**"Triggering Vibrations from Your App"**](https://www.youtube.com/watch?v=dVfZPZmtWd0), on the [**IJ Apps channel**](https://www.youtube.com/channel/UCLQUpH7SdkAXAeK6jeeF8zg). 
+This is the code that I covered in my YouTube video, [**"Triggering Vibrations from Your App"**](https://www.youtube.com/watch?v=dVfZPZmtWd0), on the [**IJ Apps channel**](https://www.youtube.com/channel/UCLQUpH7SdkAXAeK6jeeF8zg). By using the code, you can make a basic app that triggers vibration patterns indefinitely and stops them when a button is pressed.
 Feel free to copy and paste the code for your own use and subscribe to the [**IJ Apps channel**](https://www.youtube.com/channel/UCLQUpH7SdkAXAeK6jeeF8zg)!
 
 - **Get the Code:**
