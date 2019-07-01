@@ -17,9 +17,9 @@ For more cool and complex projects using tools such as the Microsoft Face API, K
 
 
 
-| [**Facial Recognition App with Kairos API (REALLY Good!)**](https://github.com/ishaanjav/Kairos_Face_Recognition "Kairos GitHub Repository")| [Face Analyzer Android App](https://github.com/ishaanjav/Face_Analyzer "Face Analyzer Repository")  	| [Basic Demo of Fingerprint Authentication App](https://github.com/ishaanjav/Fingerprint_Authentication "Finger Print Authentication GitHub Repository")    |
+| [**Facial Recognition App with Kairos API (REALLY Good!)**](https://github.com/ishaanjav/Kairos_Face_Recognition "Kairos GitHub Repository")| [Face Analyzer Android App](https://github.com/ishaanjav/Face_Analyzer "Face Analyzer Repository")  	| [**Facial Recognition App with Weka ML (FREE AND REALLY GOOD!)**](https://github.com/ishaanjav/Weka-ML-Face-Recognition "Weka ML: Facial Recognition App Repository")    |
 |---	|---	|---  |
-|  [<img align = "left" src="https://github.com/ishaanjav/Kairos_Face_Recognition/blob/master/Full%20Process.gif" width = "1350">](https://github.com/ishaanjav/Kairos_Face_Recognition "Facial Recognition with Kairos Example Gif") 	| [<img align = "left" src="https://github.com/ishaanjav/Face_Analyzer/blob/master/Face%20Analyzer%20Demo.gif" width = "1200">](https://github.com/ishaanjav/Face_Analyzer "Face Analyzer Example Gif")| [<img align = "left" src="https://github.com/ishaanjav/Fingerprint_Authentication/blob/master/Animated%20Example.gif">](https://github.com/ishaanjav/Fingerprint_Authentication "Fingerprint Authentication Example Gif")   |
+|  [<img align = "left" src="https://github.com/ishaanjav/Kairos_Face_Recognition/blob/master/Full%20Process.gif" width = "1350">](https://github.com/ishaanjav/Kairos_Face_Recognition "Facial Recognition with Kairos Example Gif") 	| [<img align = "left" src="https://github.com/ishaanjav/Face_Analyzer/blob/master/Face%20Analyzer%20Demo.gif" width = "1200">](https://github.com/ishaanjav/Face_Analyzer "Face Analyzer Example Gif")| [<img align = "left" src="https://github.com/ishaanjav/Weka-ML-Face-Recognition/blob/master/Using%20the%20App%20Gif.gif" width = "1200">](https://github.com/ishaanjav/Weka-ML-Face-Recognition "Weka ML Facial Recognition Gif")   |
 
 
 
