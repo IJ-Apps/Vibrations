@@ -23,7 +23,6 @@ For more cool and complex projects using tools such as the Microsoft Face API, K
 
 
 
-
 -----
 
 ## Click the image to view the video
